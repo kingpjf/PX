@@ -1,48 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e5b024d-e1b2-46c7-af29-ab7c6063555a" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\artifacts\MiWeb_Web_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__asm_asm_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__asm_asm_commons_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__asm_asm_tree_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__commons_fileupload_commons_fileupload_1_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__commons_io_commons_io_2_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__javassist_javassist_3_11_0_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__javax_servlet_jsp_api_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__javax_servlet_servlet_api_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__ognl_ognl_3_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_ibatis_ibatis_sqlmap_2_3_4_726.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_struts_struts2_convention_plugin_2_3_14_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_struts_struts2_core_2_3_14_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_struts_struts2_spring_plugin_2_3_14_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_apache_struts_xwork_xwork_core_2_3_14_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_freemarker_freemarker_2_3_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_2_5_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_aop_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_asm_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_beans_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_context_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_core_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_expression_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\libraries\Maven__org_springframework_spring_web_3_0_5_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\PX\.idea\workspace.xml" afterPath="" />
-    </list>
+    <list default="true" id="5e5b024d-e1b2-46c7-af29-ab7c6063555a" name="Default" comment="" />
     <ignored path="PX.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5e5b024d-e1b2-46c7-af29-ab7c6063555a" time="1369841218604" ignored="false" />
+    <file path="/Dummy.txt" changelist="5e5b024d-e1b2-46c7-af29-ab7c6063555a" time="1369841371763" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -635,7 +597,11 @@
       <created>1369841221775</created>
       <updated>1369841221775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="初始化">
+      <created>1369841373761</created>
+      <updated>1369841373761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
